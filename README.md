@@ -27,7 +27,7 @@
 
 ## OUTPUT:
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/9e41de91-6dcc-4352-ab44-443028d3ac1a)
+![image](https://github.com/karnankasinathan/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/118787064/3051fc82-2842-4826-bd70-2a5712291fb6)
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
